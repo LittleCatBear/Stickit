@@ -1,0 +1,28 @@
+{
+  "name": "Strickit",
+  "version": "0.0.1",
+  "authors": [
+    "Julie Huguet <j.huguet9@gmail.com>"
+  ],
+  "description": "Stick It project",
+  "main": "app.js",
+  "keywords": [
+    "none"
+  ],
+  "license": "MIT",
+  "homepage": "/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "*",
+    
+    "jquery": "*"
+   
+  }
+}
