@@ -1,5 +1,5 @@
 {
-  "name": "Strickit",
+  "name": "Stickit",
   "version": "0.0.1",
   "authors": [
     "Julie Huguet <j.huguet9@gmail.com>"
@@ -21,7 +21,7 @@
   ],
   "dependencies": {
     "bootstrap": "*",
-    
+    "gumby": "*",
     "jquery": "*"
    
   }
